@@ -41,6 +41,7 @@ Front-end tools and technologies include ReactJS, CSS, Tailwind CSS, Redux for s
 
 
 Back-end
+
 The back end of StudyNotion is built with NodeJS and ExpressJS and uses MongoDB as its primary database. Key features and functionalities include:
 
 User Authentication and Authorization: Secure login, OTP verification, and forgot password functionality.
@@ -51,9 +52,13 @@ Markdown Formatting: Course content is stored in Markdown format for rendering.
 Frameworks, libraries, and tools used: Node.js, MongoDB, Express.js, JWT for authentication and authorization, Bcrypt for password hashing, and Mongoose for database interaction.
 
 Data Models and Database Schema
+
 Student Schema: Includes name, email, password, and course details.
 Instructor Schema: Includes name, email, password, and course details.
 Course Schema: Includes course name, description, instructor details, and media content.
+
+
+
 API Design
 StudyNotion's API follows the REST architectural style, implemented using Node.js and Express.js. It uses JSON for data exchange and standard HTTP request methods. Sample API endpoints include:
 
@@ -81,7 +86,10 @@ Request: The updated course details in the request body
 Response: The updated course
 DELETE /api/courses/:id: Delete a course by ID
 Response: A success message indicating that the course has been deleted.
+
+
 Deployment
+
 StudyNotion is deployed on various cloud-based services:
 
 Front-end: Vercel for static site hosting.
