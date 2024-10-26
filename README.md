@@ -16,7 +16,7 @@ Database: Utilizes MongoDB as a NoSQL database to store course content, user dat
 System Architecture Diagram
 ![image](https://github.com/user-attachments/assets/2218d8e3-a1a3-4172-be94-d08cf65cc61c)
 
-Front-end
+###Front-end
 The front end of StudyNotion is built with ReactJS, offering a dynamic and responsive user interface for students and instructors. Here are some key pages and functionalities:
 
 For Students:
@@ -31,7 +31,7 @@ User Details: Account information.
 User Edit Details: Edit account information.
 For Instructors:
 
-Dashboard: Overview of instructor's courses and ratings.
+###Dashboard: Overview of instructor's courses and ratings.
 Insights: Detailed course including the number of views, clicks, and other relevant metrics.
 Course Management Pages: Create, update, delete courses.
 View and Edit Profile Details: Account management.
@@ -40,7 +40,7 @@ Front-end tools and technologies include ReactJS, CSS, Tailwind CSS, Redux for s
 ![image](https://github.com/user-attachments/assets/e54953e1-bbc0-4b4f-9317-b753fdd9c9f5)
 
 
-Back-end
+###Back-end
 
 The back end of StudyNotion is built with NodeJS and ExpressJS and uses MongoDB as its primary database. Key features and functionalities include:
 
