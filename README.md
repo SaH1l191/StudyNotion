@@ -3,7 +3,7 @@
 **StudyNotion** is a versatile and intuitive ed-tech platform that enables users to create, consume, and rate educational content. It provides a seamless and interactive learning experience for students while offering a platform for instructors to showcase their expertise and connect with learners worldwide. The platform is built using the MERN stack, which includes ReactJS, NodeJS, MongoDB, and ExpressJS.
 
 Link :- https://v0-study-notion-sah1l19-sah1l19s-projects.vercel.app/
-![System Architecture](https://github.com/user-attachments/assets/2218d8e3-a1a3-4172-be94-d08cf65cc61c)
+![Front-End Screenshot](https://github.com/user-attachments/assets/e54953e1-bbc0-4b4f-9317-b753fdd9c9f5)
 ## Table of Contents
 
 - [System Architecture](#system-architecture)
@@ -13,7 +13,7 @@ Link :- https://v0-study-notion-sah1l19-sah1l19s-projects.vercel.app/
 - [Deployment](#deployment)
 
 ## System Architecture
-
+![System Architecture](https://github.com/user-attachments/assets/2218d8e3-a1a3-4172-be94-d08cf65cc61c)
 The **StudyNotion** ed-tech platform follows a client-server architecture with the following main components:
 
 - **Front-end**: Built with ReactJS, it communicates with the back end using RESTful API calls.
@@ -52,7 +52,7 @@ The front end of **StudyNotion** is built with ReactJS, offering a dynamic and r
 
 Additionally, various npm packages are used to enhance the functionality of the front end.
 
-![Front-End Screenshot](https://github.com/user-attachments/assets/e54953e1-bbc0-4b4f-9317-b753fdd9c9f5)
+
 
 ## Back-end
 
