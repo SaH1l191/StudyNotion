@@ -3,7 +3,7 @@
 **StudyNotion** is a versatile and intuitive ed-tech platform that enables users to create, consume, and rate educational content. It provides a seamless and interactive learning experience for students while offering a platform for instructors to showcase their expertise and connect with learners worldwide. The platform is built using the MERN stack, which includes ReactJS, NodeJS, MongoDB, and ExpressJS.
 
 Link :- https://v0-study-notion-sah1l19-sah1l19s-projects.vercel.app/
-
+![System Architecture](https://github.com/user-attachments/assets/2218d8e3-a1a3-4172-be94-d08cf65cc61c)
 ## Table of Contents
 
 - [System Architecture](#system-architecture)
@@ -22,7 +22,7 @@ The **StudyNotion** ed-tech platform follows a client-server architecture with t
 
 ### System Architecture Diagram
 
-![System Architecture](https://github.com/user-attachments/assets/2218d8e3-a1a3-4172-be94-d08cf65cc61c)
+
 
 ## Front-end
 
